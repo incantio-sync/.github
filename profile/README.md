@@ -9,3 +9,6 @@ Key aspects of what Incantio offers:
 - Direct payments & ownership: Artists retain full non-exclusive rights to their music and receive payments directly to their bank accounts. 
 - Transparent licensing: Creators see pricing upfront and can secure global, lifetime licenses for their projects. 
 - Powerful discovery: Incantio uses recommendation technology to help content creators find the right songs quickly. 
+
+
+Check out our app here -- https://app.incantio.com
