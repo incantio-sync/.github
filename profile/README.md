@@ -2,4 +2,4 @@
 
 
 
-This is the Incantio github repository, our application can be found at https://app.incantio.com/
+This is the Incantio github account, our application can be found at https://app.incantio.com/
