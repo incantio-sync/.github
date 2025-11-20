@@ -1,6 +1,6 @@
 Incantio — Company Description
 
-Incantio is an independent, artist-first sync licensing platform that connects musicians and composers directly with visual content creators — filmmakers, video editors, game developers, advertisers, and more. Their mission is to democratize music licensing: giving creators more access to quality music, and giving artists control over their work. 
+Incantio is an independent, artist-first sync licensing platform that connects musicians and composers directly with content creators — filmmakers, video editors, game developers, advertisers, and more. Their mission is to democratize music licensing: giving creators more access to quality music, and giving artists control over their work. 
 Incantio
 
 
